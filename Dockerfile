@@ -1,7 +1,4 @@
-# Folding@home
-#
-# VERSION               0.1
-# Run with: docker run -d -t -i magglass1/docker-folding-at-home
+# Run with: docker run -d -t -i funnybirdboy/docker-folding-at-home
 
 FROM ubuntu
 
